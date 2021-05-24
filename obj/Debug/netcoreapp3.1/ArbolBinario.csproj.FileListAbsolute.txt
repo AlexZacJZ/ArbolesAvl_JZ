@@ -1,0 +1,13 @@
+C:\Users\Justin\Desktop\JZProyects\ArbolBinario\bin\Debug\netcoreapp3.1\ArbolBinario.exe
+C:\Users\Justin\Desktop\JZProyects\ArbolBinario\bin\Debug\netcoreapp3.1\ArbolBinario.deps.json
+C:\Users\Justin\Desktop\JZProyects\ArbolBinario\bin\Debug\netcoreapp3.1\ArbolBinario.runtimeconfig.json
+C:\Users\Justin\Desktop\JZProyects\ArbolBinario\bin\Debug\netcoreapp3.1\ArbolBinario.runtimeconfig.dev.json
+C:\Users\Justin\Desktop\JZProyects\ArbolBinario\bin\Debug\netcoreapp3.1\ArbolBinario.dll
+C:\Users\Justin\Desktop\JZProyects\ArbolBinario\bin\Debug\netcoreapp3.1\ArbolBinario.pdb
+C:\Users\Justin\Desktop\JZProyects\ArbolBinario\obj\Debug\netcoreapp3.1\ArbolBinario.csprojAssemblyReference.cache
+C:\Users\Justin\Desktop\JZProyects\ArbolBinario\obj\Debug\netcoreapp3.1\ArbolBinario.AssemblyInfoInputs.cache
+C:\Users\Justin\Desktop\JZProyects\ArbolBinario\obj\Debug\netcoreapp3.1\ArbolBinario.AssemblyInfo.cs
+C:\Users\Justin\Desktop\JZProyects\ArbolBinario\obj\Debug\netcoreapp3.1\ArbolBinario.csproj.CoreCompileInputs.cache
+C:\Users\Justin\Desktop\JZProyects\ArbolBinario\obj\Debug\netcoreapp3.1\ArbolBinario.dll
+C:\Users\Justin\Desktop\JZProyects\ArbolBinario\obj\Debug\netcoreapp3.1\ArbolBinario.pdb
+C:\Users\Justin\Desktop\JZProyects\ArbolBinario\obj\Debug\netcoreapp3.1\ArbolBinario.genruntimeconfig.cache
